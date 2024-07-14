@@ -4,3 +4,10 @@ Features:-
 - Extract, transform, and load (ETL) financial data from various sources.
 - Create interactive dashboards in Tableau to visualize key financial metrics and trends.
 - Ensure data accuracy and security through robust validation and encryption mechanisms.
+
+For Tableau :-
+
+I will need to connect to my SQL database and create dashboards. Here is how:
+- Open Tableau and connect to SQL database.
+- Load the table I created in the ETL process.
+- Create interactive dashboards by dragging and dropping fields to visualize key financial metrics and trends.
