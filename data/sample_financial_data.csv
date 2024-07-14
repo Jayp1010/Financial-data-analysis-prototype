@@ -1,0 +1,5 @@
+date,amount,category
+2023-01-01,1000,Revenue
+2023-01-02,-200,Expense
+2023-01-03,500,Revenue
+2023-01-04,-100,Expense
